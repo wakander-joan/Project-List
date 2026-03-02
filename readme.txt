@@ -7,4 +7,14 @@ Traduções{
 	Cria: Create
 	Busca: Search
 	Todos: All
+	Editar: Edit
+	Desativar: Disable
+	Altera: Change
+	Concluido: Completed
+	Pendente: Pending
+	Em andamento: In progress
+	Perfil: profile
+	Senha: Password
+	Tipo: Type
+	Preço: Price
 }
