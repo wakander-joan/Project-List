@@ -17,4 +17,9 @@ Traduções{
 	Senha: Password
 	Tipo: Type
 	Preço: Price
+	Quantidade: amount
+	Anotação: annotation
+	Telas: screens
+	Cadastro: register
+	Detalhes: details
 }
